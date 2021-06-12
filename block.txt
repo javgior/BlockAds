@@ -6,7 +6,6 @@
 ||embeddedassistant.googleapis.com^$important
 ||googleadservices.com^$important
 ||google.es/aclk^$important
-||gstatic.com^$important
 ||googlehosted.l.googleusercontent.com^$important
 ||googleads.g.doubleclick.net^$important
 ||suggestqueries.l.google.com^$important
@@ -23,6 +22,8 @@
 ||r4.sn-h5qzen7d.googlevideo.com^$important
 ||r1.sn-nv47lnsk.googlevideo.com^$important
 ||r5.sn-n4v7knlk.googlevideo.com^$important
+||r3.sn-p5qlsnrl.googlevideo.com^$important
+||r2.sn-h5qzen7s.googlevideo.com^$important
 ||r2---sn-h5q7knes.googlevideo.com^$important
 ||r4---sn-h5qzen7l.googlevideo.com^$important
 ||r5---sn-h5qzen7s.googlevideo.com^$important
@@ -67,4 +68,8 @@
 ||r1---sn-h5qzen7y.googlevideo.com^$important
 ||r1---sn-25glenez.googlevideo.com^$important
 ||r1---sn-h5q7kne6.googlevideo.com^$important
-
+||r2---sn-h5qzen7y.googlevideo.com^$important
+||r4---sn-h5qzen7s.googlevideo.com^$important
+||r1---sn-5hne6nsr.googlevideo.com^$important
+||r6---sn-h5q7dned.googlevideo.com^$important
+||r6---sn-25ge7nsl.googlevideo.com^$important
