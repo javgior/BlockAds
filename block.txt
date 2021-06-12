@@ -12,6 +12,7 @@
 ||suggestqueries.google.com^$important
 ||api-global.netflix.com^$important
 /^[a-z0-9]\.g\.doubleclick\.net$/
+/^[a-z0-9]\.googleusercontent\.com$/
 
 ||r3.sn-25glen7y.googlevideo.com^$important
 ||r2.sn-a5meknes.googlevideo.com^$important
@@ -24,6 +25,7 @@
 ||r5.sn-n4v7knlk.googlevideo.com^$important
 ||r3.sn-p5qlsnrl.googlevideo.com^$important
 ||r2.sn-h5qzen7s.googlevideo.com^$important
+||r6---sn-25glen7y.googlevideo.com^$important
 ||r2---sn-h5q7knes.googlevideo.com^$important
 ||r4---sn-h5qzen7l.googlevideo.com^$important
 ||r5---sn-h5qzen7s.googlevideo.com^$important
