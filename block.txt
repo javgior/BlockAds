@@ -18,6 +18,11 @@
 ||r2.sn-a5meknes.googlevideo.com^$important
 ||r1.sn-n4v7sne7.googlevideo.com^$important
 ||r2.sn-hgn7rn7k.googlevideo.com^$important
+||r5.sn-h5qzen7d.googlevideo.com^$important
+||r2.sn-h5qzen7l.googlevideo.com^$important
+||r4.sn-h5qzen7d.googlevideo.com^$important
+||r1.sn-nv47lnsk.googlevideo.com^$important
+||r5.sn-n4v7knlk.googlevideo.com^$important
 ||r2---sn-h5q7knes.googlevideo.com^$important
 ||r4---sn-h5qzen7l.googlevideo.com^$important
 ||r5---sn-h5qzen7s.googlevideo.com^$important
@@ -51,3 +56,15 @@
 ||r4---sn-h5q7knes.googlevideo.com^$important
 ||r1---sn-25glene7.googlevideo.com^$important
 ||r2---sn-h5q7kned.googlevideo.com^$important
+||r5---sn-25glenez.googlevideo.com^$important
+||r5---sn-25glenes.googlevideo.com^$important
+||r5---sn-h5qzen7l.googlevideo.com^$important
+||r1---sn-25glen7e.googlevideo.com^$important
+||r1---sn-h5q7knel.googlevideo.com^$important
+||r2---sn-25glen7e.googlevideo.com^$important
+||r4---sn-h5q7kne6.googlevideo.com^$important
+||r4---sn-h5qzen7y.googlevideo.com^$important
+||r1---sn-h5qzen7y.googlevideo.com^$important
+||r1---sn-25glenez.googlevideo.com^$important
+||r1---sn-h5q7kne6.googlevideo.com^$important
+
