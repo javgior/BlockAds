@@ -3,6 +3,7 @@
 ||teleriumtv.com^$important
 ||nrdp.prod.cloud.netflix.com^$important
 
+||embeddedassistant.googleapis.com^$important
 ||googleadservices.com^$important
 ||google.es/aclk^$important
 ||gstatic.com^$important
