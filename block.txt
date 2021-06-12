@@ -75,3 +75,4 @@
 ||r1---sn-5hne6nsr.googlevideo.com^$important
 ||r6---sn-h5q7dned.googlevideo.com^$important
 ||r6---sn-25ge7nsl.googlevideo.com^$important
+||r3---sn-h5q7knes.googlevideo.com^$important
