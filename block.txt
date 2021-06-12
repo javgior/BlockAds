@@ -82,3 +82,4 @@
 ||r2---sn-h5q7knel.googlevideo.com^$important
 ||r2---sn-h5q7kne6.googlevideo.com^$important
 ||r4---sn-25ge7nzs.googlevideo.com^$important
+||r4---sn-25glene6.googlevideo.com^$important
