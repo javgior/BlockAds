@@ -76,3 +76,9 @@
 ||r6---sn-h5q7dned.googlevideo.com^$important
 ||r6---sn-25ge7nsl.googlevideo.com^$important
 ||r3---sn-h5q7knes.googlevideo.com^$important
+||r3---sn-h5q7knez.googlevideo.com^$important
+||r5---sn-h5qzen7y.googlevideo.com^$important
+||r3---sn-h5q7kned.googlevideo.com^$important
+||r2---sn-h5q7knel.googlevideo.com^$important
+||r2---sn-h5q7kne6.googlevideo.com^$important
+||r4---sn-25ge7nzs.googlevideo.com^$important
