@@ -2,6 +2,12 @@
 ||dcn.espncdn.shop^$important
 ||teleriumtv.com^$important
 ||nrdp.prod.cloud.netflix.com^$important
+||clientservices.googleapis.com^$important
+||content-autofill.googleapis.com^$important
+||consent.youtube.com^$important
+||metadata.provider.plex.tv^$important
+||podcasts.provider.plex.tv^$important
+||play.googleapis.com^$important
 
 ||embeddedassistant.googleapis.com^$important
 ||googleadservices.com^$important
