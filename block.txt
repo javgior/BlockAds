@@ -2,21 +2,22 @@
 ||dcn.espncdn.shop^$important
 ||teleriumtv.com^$important
 ||nrdp.prod.cloud.netflix.com^$important
+||api-global.netflix.com^$important
+||metadata.provider.plex.tv^$important
+||podcasts.provider.plex.tv^$important
+
 ||clientservices.googleapis.com^$important
 ||content-autofill.googleapis.com^$important
 ||consent.youtube.com^$important
-||metadata.provider.plex.tv^$important
-||podcasts.provider.plex.tv^$important
-||play.googleapis.com^$important
-
 ||embeddedassistant.googleapis.com^$important
+||play.googleapis.com^$important
 ||googleadservices.com^$important
 ||google.es/aclk^$important
 ||googlehosted.l.googleusercontent.com^$important
 ||googleads.g.doubleclick.net^$important
 ||suggestqueries.l.google.com^$important
 ||suggestqueries.google.com^$important
-||api-global.netflix.com^$important
+
 /^[a-z0-9]\.g\.doubleclick\.net$/
 /^[a-z0-9]\.googleusercontent\.com$/
 
