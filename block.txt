@@ -6,10 +6,10 @@
 ||metadata.provider.plex.tv^$important
 ||podcasts.provider.plex.tv^$important
 
+||suggestqueries-clients6.youtube.com^$important
 ||clientservices.googleapis.com^$important
 ||content-autofill.googleapis.com^$important
 ||consent.youtube.com^$important
-||embeddedassistant.googleapis.com^$important
 ||googleadservices.com^$important
 ||google.es/aclk^$important
 ||googlehosted.l.googleusercontent.com^$important
@@ -45,6 +45,7 @@
 ||r5.sn-5hnekn7k.googlevideo.com^$important
 ||r1.sn-h5q7dned.googlevideo.com^$important
 ||r5.sn-aigzrn7z.googlevideo.com^$important
+||r3---sn-25ge7nse.googlevideo.com^$important
 ||r6---sn-25glen7y.googlevideo.com^$important
 ||r2---sn-h5q7knes.googlevideo.com^$important
 ||r4---sn-h5qzen7l.googlevideo.com^$important
