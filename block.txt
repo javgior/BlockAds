@@ -44,7 +44,8 @@
 ^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*.ru)(.*)
 ^(.*)\.g00\.(.*)
-||googlesyndication.com^$important
-||adservice.google.com^$important
-||pagead2.googleadservices.com^$important
-||googleadservices.com^$important
+||safebrowsing.googleapis.com^
+||googlesyndication.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||googleadservices.com
