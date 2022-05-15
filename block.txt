@@ -44,3 +44,5 @@
 ^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*.ru)(.*)
 ^(.*)\.g00\.(.*)
+||atomixhq.link^$document
+||atomixhq.art^$document
