@@ -44,5 +44,20 @@
 ^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*.ru)(.*)
 ^(.*)\.g00\.(.*)
+youtube.com###chatframe
+youtube.com###chat
+twitch.tv###sideNav
+twitch.tv###ebf927fd0b386fda35040fe4340967ca > div.sc-AxiKw.bmbJjA.right-column.right-column--beside > div.sc-AxiKw.eaTiSV:first-child > div.channel-root__right-column.channel-root__right-column--expanded
+twitch.tv###root > div.sc-AxiKw.dNilik > div.sc-AxiKw.idyRgi:nth-child(2) > div.sc-AxiKw.kSzSVy:nth-child(2) > main.cMBpfd.sc-AxheI.twilight-main:nth-child(2) > div.root-scrollable.scrollable-area.scrollable-area--suppress-scroll-x:nth-child(2) > div.simplebar-scroll-content:last-child > div.simplebar-content.root-scrollable__content > div.sc-AxiKw.dLfxxF.root-scrollable__wrapper > div.channel-root.channel-root--watch-chat.channel-root--live.channel-root--watch.channel-root--unanimated:first-child > div.sc-AxiKw.dXUqgi.channel-root__main--with-chat:first-child > div.channel-root__player.channel-root__player--with-chat:first-child > div.sc-AxiKw.bIGATx:nth-child(2) > div
+descargarportorrent.net###chp_ads_blocker-overlay
+descargarportorrent.net###chp_ads_blocker-modal
+mastorrents.theproxy.to###cookieConsentUR99472
+marca.com##div.fc-ab-root:nth-child(49) > div.fc-dialog-overlay:first-child
+marca.com##div.fc-ab-root:nth-child(49) > div.fc-dialog-container:last-child > section
+marca.com##div.fc-ab-root:nth-child(49)
+marca.com##.fc-dialog-overlay
+marca.com##div.fc-ab-root> div.fc-dialog-overlay:first-child
+marca.com##div.fc-ab-root
+marca.com#$#body { overflow: auto!important; }
 ||atomixhq.link^$document
 ||atomixhq.art^$document
