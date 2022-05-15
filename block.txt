@@ -59,5 +59,6 @@ marca.com##.fc-dialog-overlay
 marca.com##div.fc-ab-root> div.fc-dialog-overlay:first-child
 marca.com##div.fc-ab-root
 marca.com#$#body { overflow: auto!important; }
+marca.com###banda_suscripcion
 ||atomixhq.link^$document
 ||atomixhq.art^$document
