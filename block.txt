@@ -62,3 +62,4 @@ marca.com#$#body { overflow: auto!important; }
 marca.com###banda_suscripcion
 ||atomixhq.link^$document
 ||atomixhq.art^$document
+||hoster-test.ru^$document
