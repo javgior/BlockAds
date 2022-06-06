@@ -60,6 +60,7 @@ marca.com##div.fc-ab-root> div.fc-dialog-overlay:first-child
 marca.com##div.fc-ab-root
 marca.com#$#body { overflow: auto!important; }
 marca.com###banda_suscripcion
+marca.com###notifications-panel-hello
 ||atomixhq.link^$document
 ||atomixhq.art^$document
 ||hoster-test.ru^$document
