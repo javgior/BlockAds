@@ -64,3 +64,4 @@ marca.com###notifications-panel-hello
 ||atomixhq.link^$document
 ||atomixhq.art^$document
 ||hoster-test.ru^$document
+||ipadizate.com^$document
