@@ -61,13 +61,10 @@ marca.com##div.fc-ab-root
 marca.com#$#body { overflow: auto!important; }
 marca.com###banda_suscripcion
 marca.com###notifications-panel-hello
-||atomixhq.link^$document
-||atomixhq.art^$document
-||hoster-test.ru^$document
-||ipadizate.com^$document
-||ytop1.com^$document
-||crumbtypewriterhome.com^$document
-||blancoshrimp.com^$document
-||westats.dev^$document
-||crumbtypewriterhome.com^$document
-||understoodreceivermisundertand.com^$document
+^https?://([A-Za-z0-9.-]*\.)?atomixhq\.link/
+^https?://([A-Za-z0-9.-]*\.)?atomixhq\.art/
+^https?://([A-Za-z0-9.-]*\.)?hoster-test\.ru/
+^https?://([A-Za-z0-9.-]*\.)?ytop1\.com/
+^https?://([A-Za-z0-9.-]*\.)?westats\.dev/
+^https?://([A-Za-z0-9.-]*\.)?crumbtypewriterhome\.com/
+^https?://([A-Za-z0-9.-]*\.)?understoodreceivermisundertand\.com/
