@@ -61,6 +61,7 @@ marca.com##div.fc-ab-root
 marca.com#$#body { overflow: auto!important; }
 marca.com###banda_suscripcion
 marca.com###notifications-panel-hello
+camrips.net##[onclick="$(this).remove(); MDinjectP3()"]
 ^https?://([A-Za-z0-9.-]*\.)?atomixhq\.link/
 ^https?://([A-Za-z0-9.-]*\.)?atomixhq\.art/
 ^https?://([A-Za-z0-9.-]*\.)?hoster-test\.ru/
@@ -74,4 +75,3 @@ marca.com###notifications-panel-hello
 ^https?://([A-Za-z0-9.-]*\.)?atvcams\.com/
 ^https?://([A-Za-z0-9.-]*\.)?accordaudienceeducational\.com/
 ^https?://([A-Za-z0-9.-]*\.)?delayeddisembroildisembroil\.com/
-camrips.net##[onclick="$(this).remove(); MDinjectP3()"]
