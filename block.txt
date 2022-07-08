@@ -70,4 +70,5 @@ marca.com###notifications-panel-hello
 ^https?://([A-Za-z0-9.-]*\.)?understoodreceivermisunderstand\.com/
 ^https?://([A-Za-z0-9.-]*\.)?migrantspiteconnecting\.com/
 ^https?://([A-Za-z0-9.-]*\.)?waisheph\.com/
+^https?://([A-Za-z0-9.-]*\.)?profitablecpmgate\.com/
 camrips.net##[onclick="$(this).remove(); MDinjectP3()"]
