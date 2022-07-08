@@ -66,3 +66,6 @@ marca.com###notifications-panel-hello
 ||hoster-test.ru^$document
 ||ipadizate.com^$document
 ||ytop1.com^$document
+||crumbtypewriterhome.com^$document
+||blancoshrimp.com^$document
+||westats.dev^$document
