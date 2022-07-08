@@ -70,3 +70,4 @@ marca.com###notifications-panel-hello
 ||blancoshrimp.com^$document
 ||westats.dev^$document
 ||crumbtypewriterhome.com^$document
+||understoodreceivermisundertand.com^$document
