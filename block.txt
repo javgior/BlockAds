@@ -68,3 +68,4 @@ marca.com###notifications-panel-hello
 ^https?://([A-Za-z0-9.-]*\.)?westats\.dev/
 ^https?://([A-Za-z0-9.-]*\.)?crumbtypewriterhome\.com/
 ^https?://([A-Za-z0-9.-]*\.)?understoodreceivermisundertand\.com/
+[onclick="$(this).remove(); MDinjectP3()"]
