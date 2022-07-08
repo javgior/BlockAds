@@ -73,4 +73,5 @@ marca.com###notifications-panel-hello
 ^https?://([A-Za-z0-9.-]*\.)?profitablecpmgate\.com/
 ^https?://([A-Za-z0-9.-]*\.)?atvcams\.com/
 ^https?://([A-Za-z0-9.-]*\.)?accordaudienceeducational\.com/
+^https?://([A-Za-z0-9.-]*\.)?delayeddisembroildisembroil\.com/
 camrips.net##[onclick="$(this).remove(); MDinjectP3()"]
