@@ -69,3 +69,4 @@ marca.com###notifications-panel-hello
 ||crumbtypewriterhome.com^$document
 ||blancoshrimp.com^$document
 ||westats.dev^$document
+||crumbtypewriterhome.com^$document
