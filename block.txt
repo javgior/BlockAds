@@ -77,3 +77,6 @@ camrips.net##[onclick="$(this).remove(); MDinjectP3()"]
 ^https?://([A-Za-z0-9.-]*\.)?delayeddisembroildisembroil\.com/
 ^https?://([A-Za-z0-9.-]*\.)?temporarilyruinconsistent\.com/
 ^https?://([A-Za-z0-9.-]*\.)?migrantspiteconnecting\.com/
+||www.fcouvtlwzocok.com^$important
+||fcouvtlwzocok.com^$important
+||westats.dev^$important
