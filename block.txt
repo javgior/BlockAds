@@ -80,3 +80,4 @@ camrips.net##[onclick="$(this).remove(); MDinjectP3()"]
 ||www.fcouvtlwzocok.com^$important
 ||fcouvtlwzocok.com^$important
 ||westats.dev^$important
+||ajbcollaborations.com^$important
